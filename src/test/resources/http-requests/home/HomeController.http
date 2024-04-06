@@ -1,0 +1,11 @@
+### Get version
+GET {{prot}}{{host}}:{{port}}/version
+Accept: application/json
+
+> version.js
+
+### Get health
+GET {{prot}}{{host}}:{{port}}/health
+Accept: application/json
+
+> health.js

@@ -1,0 +1,5 @@
+### Greet
+GET {{prot}}{{host}}:{{port}}/greet
+Accept: text/plain
+
+> greet.js
